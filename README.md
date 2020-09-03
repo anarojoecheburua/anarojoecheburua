@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, it's Ana 🖤
 
-<!--
-**anarojoecheburua/anarojoecheburua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a mathematical researcher, data analyst/scientist working in industry, passionate in machine learing and also web development.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/ana-rojo-echeburua/">
+  <img align="left" alt="Ana's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/arojomaths">
+  <img align="left" alt="Ana's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="http://animal.discovery.com/mammals/cheetah/pictures/cheetah-picture.jpg" 
+alt="Ana Chibi" />
