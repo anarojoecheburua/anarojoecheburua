@@ -8,6 +8,7 @@
 </a>
 <br />
 <br />
+<br />
 
 ▪️ I have a PhD in Applied Mathematics.<br />
 ▪️ I work as a mathematical researcher, data analyst/scientist in industry.<br />
