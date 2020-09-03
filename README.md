@@ -1,7 +1,6 @@
 ### Hello, it's Ana 🖤
-
-I am a mathematical researcher, data analyst/scientist working in industry, passionate in machine learing and also web development.
-
+<br />
+<br />
 <a href="https://www.linkedin.com/in/ana-rojo-echeburua/">
   <img align="left" alt="Ana's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,5 +10,8 @@ I am a mathematical researcher, data analyst/scientist working in industry, pass
 <br />
 <br />
 
-<img src="http://animal.discovery.com/mammals/cheetah/pictures/cheetah-picture.jpg" 
+I have a PhD in Applied Mathematics.<br />
+I work as a mathematical researcher, data analyst/scientist in industry.<br />
+I am passionate about machine learing, artificial intelligence and web development.<br />
+<img src="https://photos.app.goo.gl/i47eK88gyWmQS8CZ8" 
 alt="Ana Chibi" />
