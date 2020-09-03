@@ -1,4 +1,14 @@
-### Hello, it's Ana 🖤
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+</style>
+</head>
+
+
+
+
+<h1> Hello, it's Ana 🖤 </h1>
 <br />
 <a href="https://www.linkedin.com/in/ana-rojo-echeburua/">
   <img align="left" alt="Ana's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
