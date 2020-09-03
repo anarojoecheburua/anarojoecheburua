@@ -13,3 +13,6 @@
 ▪️ I have a PhD in Applied Mathematics.<br />
 ▪️ I work as a mathematical researcher, data analyst/scientist in industry.<br />
 ▪️ I am passionate about machine learing, artificial intelligence and web development.<br />
+
+
+<img align="left" alt="Ana's Twitter" width="22px" src="https://tpc.googlesyndication.com/simgad/5331974515712871054?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qm1F5XfoDyzOtjkuwz6FlVmTsFCrQ" />
