@@ -20,8 +20,13 @@
 
 <br />
 
-#### Current Projects
+#### Projects In Progress
 
 🐦 Cornell Birdcall Identification - Denoising Algorithm (See full description of this Kaggle competition <a href="https://www.kaggle.com/c/birdsong-recognition">here</a>)<br />
-🧠 Deep Learning Basics
+🧠 Deep Learning Basics - a collection of pedagogic examples on deep learning techniques.
+
+
+#### Current Repositories
+
+
 
