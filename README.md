@@ -21,7 +21,6 @@
 #### Projects In Progress
 
 🧠 Deep Learning Basics - a collection of pedagogic examples on deep learning techniques. <br />
-🧱 Data Structures in Python - a summary of the main data structures in python with explanatory coding examples. <br />
 
 
 #### Public Repositories
@@ -30,6 +29,7 @@
 🥼 OSIC-Pulmonary-Fibrosis-Progression-EDA - Exploratory Data Analysis on the categorical and continuous data for lung function decline prediction. More info on the Kaggle competition and datasets can be found <a href="https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/data">here.</a>  <br />
 📈 Machine Learning Basics - A compilation of illustrative examples for some classical machine learning techniques. <br />
 🐦 Cornell Birdcall Identification - Denoising and fragmentation preprocessing algorithms for birdcall prediction. More info on the Kaggle competition and datasets can be found <a href="https://www.kaggle.com/c/birdsong-recognition">here.</a><br />
+🧱 Data Structures in Python - a summary of the main data structures in python with explanatory coding examples. 
 
 
 
