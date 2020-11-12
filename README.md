@@ -12,7 +12,7 @@
 
 ▪️ I have a PhD in Applied Mathematics.<br />
 ▪️ I work as a mathematical researcher, data analyst/scientist in industry.<br />
-▪️ I am passionate about machine learing, artificial intelligence and web development.<br />
+▪️ I am passionate about data analysis, machine learning, artificial intelligence and web development.<br />
 
 <br />
 
