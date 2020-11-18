@@ -21,6 +21,7 @@
 #### Projects In Progress
 
 🧠 Deep Learning Basics - a collection of pedagogic examples on deep learning techniques. <br />
+📊 SQL Course Final Questions - solutions to the final questions of the course SQL - MySQL for Data Analytics and Business Intelligence from 365 careers.<br />
 
 
 #### Public Repositories
