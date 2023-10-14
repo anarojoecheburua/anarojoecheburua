@@ -11,7 +11,7 @@
 <br />
 
 ▪️ I have a PhD in Applied Mathematics.<br />
-▪️ I work as a data coach. I used to work as a mathematical researcher and data analyst/scientist in industry.<br />
+▪️ I am a Technical Content Creator Lead in AI. <br />
 ▪️ I am passionate about data analysis, machine learning, artificial intelligence and web development.<br />
 
 <br />
