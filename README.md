@@ -11,8 +11,7 @@
 <br />
 
 ▪️ I have a PhD in Applied Mathematics.<br />
-▪️ I am a Technical Content Creator Lead in AI. <br />
-▪️ I am passionate about data analysis, machine learning, artificial intelligence and web development.<br />
+▪️ I am passionate about data analysis, data science, artificial intelligence and web development.<br />
 
 <br />
 
