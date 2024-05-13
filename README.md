@@ -10,8 +10,13 @@
 <br />
 <br />
 
-▪️ I have a PhD in Applied Mathematics.<br />
-▪️ I am passionate about data analysis, data science, artificial intelligence and web development.<br />
+Experienced mathematical researcher and data scientist with a proven track record in both academic and industrial settings. 
+Possessing a Doctor of Philosophy in Applied Mathematics, specialising in advanced techniques for solving complex real-world problems. 
+Proficient in data analysis, data science, and artificial intelligence, with a keen eye for extracting actionable insights from data. 
+A proactive and passionate individual, adept at setting ambitious yet attainable goals and driving teams towards success. 
+Recognised for exemplary leadership skills, excelling in team management and fostering a collaborative work environment. 
+Known for independent problem-solving, innovative thinking, and a results-driven approach to leadership.
+
 
 <br />
 
