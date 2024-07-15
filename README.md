@@ -12,7 +12,7 @@
 <br clear="left"/>
 <br/>
 
-Hi there! 👋 I'm Ana, co-founder and CTO of Simpli, and AI company pioneering the next generation of digital employees for the insurance industry.
+Hi there! 👋 I'm Ana, co-founder and CTO of Simpli, an AI company pioneering the next generation of digital employees for the insurance industry.
 
 I am a passionate AI and data scientist with a keen eye for solving complex problems and turning data into actionable insights. With a solid foundation in applied mathematics, I love leading technical teams, managing projects, and communicating effectively with clients. My expertise lies in creating innovative AI solutions, with a particular focus on large language models and generative AI. I'm committed to continuous learning, ethical AI development, and leveraging AI to enhance business operations.
 
