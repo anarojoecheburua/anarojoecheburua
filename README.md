@@ -12,16 +12,15 @@
 <br clear="left"/>
 <br/>
 
-Hi there! 👋 I'm Ana, co-founder and CTO of Simpli, an AI company pioneering the next generation of digital employees for the insurance industry.
+Hi there! I'm Ana.👋
 
-I am a passionate AI and data scientist with a keen eye for solving complex problems and turning data into actionable insights. With a solid foundation in applied mathematics, I love leading technical teams, managing projects, and communicating effectively with clients. My expertise lies in creating innovative AI solutions, with a particular focus on large language models and generative AI. I'm committed to continuous learning, ethical AI development, and leveraging AI to enhance business operations.
+I’m an AI and data specialist with a strong foundation in mathematics. I’ve led teams, worked closely with clients to solve business challenges, and developed AI solutions that make a real impact. I’m passionate about breaking down complex problems, explaining technology in ways everyone can understand, and staying updated about all thing AI, especially in the field of large language models and generative AI. I’m always learning, and I’m committed to building AI that’s both practical and ethical.
 
 -------
 
 ### Cool Stuff: 🌟
 
 💻 **My Website:** Coded from scratch using HTML5, CSS3, and JS. Check it out [here](https://www.anarojoecheburua.com/)!
-🤖 **Simpli:** Learn more about how we help businesses reduce labour costs and scale their operations efficiently using AI [here](https://simpliautomation.com)
 
 <br/>
 
