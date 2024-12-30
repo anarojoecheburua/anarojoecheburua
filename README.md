@@ -12,9 +12,17 @@
 <br clear="left"/>
 <br/>
 
-Hi there! I'm Ana.👋
+Hi there! I'm Ana 👋, and I’ve always been passionate about mathematics and technology, and helping others solve real-world problems with them.
 
-I’m an AI and data specialist with a strong foundation in mathematics. I’ve led teams, worked closely with clients to solve business challenges, and developed AI solutions that make a real impact. I’m passionate about breaking down complex problems, explaining technology in ways everyone can understand, and staying updated about all thing AI, especially in the field of large language models and generative AI. I’m always learning, and I’m committed to building AI that’s both practical and ethical.
+My love for problem-solving started with mathematics. I did a degree and master’s in the subject, specialising in differential geometry, and completed a PhD in 2019 focusing on Applications of Smooth and Discrete Moving Frames. After finishing my PhD, I made the exciting shift into the world of data and AI, where I’ve been helping businesses transform ever since.
+
+I’m passionate about working with businesses to integrate innovative and scalable AI solutions. My experience spans both hands-on development and leadership roles, and I even co-founded my own AI company, combining my technical expertise with entrepreneurial vision. I continue to partner with organisations across industries, helping them implement impactful, lasting solutions tailored to their unique challenges and goals.
+
+Education has always been a big part of who I am. Since my master’s days, I’ve been teaching in one way or another - starting with mathematics for all ages, and later teaching data and AI to professionals. I’ve worked as a mentor and coach, helping people in industries like healthcare, aerospace, construction, finance and more, to make data-driven decisions.  I also help companies figure out what skills they need to tackle their challenges in data, AI, and cloud, and guide them in building the right training to solve real-world problems effectively
+
+I also love sharing my knowledge through hands-on tutorials on machine learning and generative AI, as well as writing articles that break down complex topics into something easy to grasp and apply. 
+
+I’m always learning and staying up-to-date with the latest in AI, cloud computing, and ethical data practices. I love taking complex problems, breaking them down, and building solutions that are not only accessible to everyone but also transparent and trustworthy.
 
 -------
 
