@@ -64,7 +64,7 @@ I’m always learning and staying up-to-date with the latest in AI, cloud comput
 📚 **Latest Articles:**
 
 **Latest Articles:**
-[Read my latest article on Knowledge Graphs for RAG Applications](https://www.datacamp.com/tutorial/knowledge-graph-rag)
+[Read my latest article on Llama 3.3](https://www.datacamp.com/tutorial/llama-3-3-tutorial)
 
 
 <br/>
