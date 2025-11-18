@@ -12,17 +12,21 @@
 <br clear="left"/>
 <br/>
 
-Hi there! I'm Ana 👋, and I’ve always been passionate about mathematics and technology, and helping others solve real-world problems with them.
+Hi there, I’m Ana 👋 welcome to my profile.
 
-My love for problem-solving started with mathematics. I did a degree and master’s in the subject, specialising in differential geometry, and completed a PhD in 2019 focusing on Applications of Smooth and Discrete Moving Frames. After finishing my PhD, I made the exciting shift into the world of data and AI, where I’ve been helping businesses transform ever since.
+I’ve always been passionate about mathematics, technology, and using both to solve real-world problems. My work now sits at the intersection of AI strategy, consulting, implementation, and literacy, helping organisations understand what AI can do for them, and how to adopt it safely, transparently, and at scale.
 
-I’m passionate about working with businesses to integrate innovative and scalable AI solutions. My experience spans both hands-on development and leadership roles, and I even co-founded my own AI company, combining my technical expertise with entrepreneurial vision. I continue to partner with organisations across industries, helping them implement impactful, lasting solutions tailored to their unique challenges and goals.
+My love for problem-solving started with mathematics. I completed a degree and master’s in the subject, specialising in differential geometry, and later a PhD on Applications of Smooth and Discrete Moving Frames. After finishing my PhD, I made the shift into data and AI, where I’ve been helping businesses transform ever since.
 
-Education has always been a big part of who I am. Since my master’s days, I’ve been teaching in one way or another - starting with mathematics for all ages, and later teaching data and AI to professionals. I’ve worked as a mentor and coach, helping people in industries like healthcare, aerospace, construction, finance and more, to make data-driven decisions.  I also help companies figure out what skills they need to tackle their challenges in data, AI, and cloud, and guide them in building the right training to solve real-world problems effectively
+I’m passionate about working with organisations to design and integrate innovative, scalable, and responsible AI solutions. Over the years I’ve worked across hands-on engineering roles, leadership roles, and everything in between. I’ve always had a strong entrepreneurial spirit too. I’ve built my own ventures, collaborated with founders, and partnered with different businesses across industries to deliver AI initiatives that create real, measurable impact.
 
-I also love sharing my knowledge through hands-on tutorials on machine learning and generative AI, as well as writing articles that break down complex topics into something easy to grasp and apply. 
+Education has always been a core part of who I am. Since my master’s days, I’ve been teaching in one form or another, beginning with mathematics for all ages, and later teaching data and AI to professionals, leaders, and exec teams. I help companies understand the skills they need, bridge capability gaps, and design training that genuinely solves business problems.
 
-I’m always learning and staying up-to-date with the latest in AI, cloud computing, and ethical data practices. I love taking complex problems, breaking them down, and building solutions that are not only accessible to everyone but also transparent and trustworthy.
+I also love sharing what I know through hands-on tutorials, articles, and content focused on all things AI. One of my favourite things is breaking down complex ideas into something that feels simple, practical, and easy to apply.
+
+Alongside my technical and educational work, I’m deeply interested in the investment and venture side of AI: how founders build, how investors evaluate opportunities, and how value is actually created in this space. This curiosity led me to create 𝐓𝐡𝐞 𝐀𝐈 𝐅𝐫𝐚𝐦𝐞 𝐏𝐨𝐝𝐜𝐚𝐬𝐭 where I interview founders, investors, and innovators about the strategies, lessons, and mental models shaping the future of AI.
+
+I’m endlessly curious and committed to staying up-to-date with the latest in AI and responsible tech and I love taking complex systems, reframing them, and helping people understand and use them with clarity and confidence. That’s also why I’m so active on LinkedIn and social media, sharing what I learn, what I build, and what I discover along the way.
 
 -------
 
