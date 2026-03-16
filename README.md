@@ -34,12 +34,6 @@ Alongside my technical and educational work, I’m deeply interested in the inve
 
 <br/>
 
-📈 **GitHub Stats:**
-
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anarojoecheburua&show_icons=true&theme=radical&hide=prs,issues,contribs)
-
-<br/>
-
 **Top Languages:**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anarojoecheburua&layout=compact&theme=radical)
@@ -61,13 +55,6 @@ Alongside my technical and educational work, I’m deeply interested in the inve
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=anarojoecheburua&theme=radical)
 
-
-<br/>
-
-
-🔥 **Coding Streaks:**
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anarojoecheburua&theme=radical)
 
 <br/>
 
