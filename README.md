@@ -18,15 +18,13 @@ I’ve always been passionate about mathematics, technology, and using both to s
 
 My love for problem-solving started with mathematics. I completed a degree and master’s in the subject, specialising in differential geometry, and later a PhD on Applications of Smooth and Discrete Moving Frames. After finishing my PhD, I made the shift into data and AI, where I’ve been helping businesses transform ever since.
 
-I’m passionate about working with organisations to design and integrate innovative, scalable, and responsible AI solutions. Over the years I’ve worked across hands-on engineering roles, leadership roles, and everything in between. I’ve always had a strong entrepreneurial spirit too. I’ve built my own ventures, collaborated with founders, and partnered with different businesses across industries to deliver AI initiatives that create real, measurable impact.
+I work with organisations to design and integrate innovative, scalable, and responsible AI solutions. Over the years I’ve worked across hands-on engineering roles, leadership roles, and everything in between. I’ve always had a strong entrepreneurial spirit too. I’ve built my own ventures, collaborated with founders, and partnered with different businesses across industries to deliver AI initiatives that create real, measurable impact.
 
 Education has always been a core part of who I am. Since my master’s days, I’ve been teaching in one form or another, beginning with mathematics for all ages, and later teaching data and AI to professionals, leaders, and exec teams. I help companies understand the skills they need, bridge capability gaps, and design training that genuinely solves business problems.
 
-I also love sharing what I know through hands-on tutorials, articles, and content focused on all things AI. One of my favourite things is breaking down complex ideas into something that feels simple, practical, and easy to apply.
+I also love sharing what I know through hands-on tutorials, articles, and content focused on all things AI. One of my favourite things is breaking down complex ideas into something that feels simple, practical, and easy to apply. Public speaking and social media are natural extensions of that, spaces where I can think out loud, share what I’m learning, and contribute to a more thoughtful AI conversation.
 
 Alongside my technical and educational work, I’m deeply interested in the investment and venture side of AI: how founders build, how investors evaluate opportunities, and how value is actually created in this space. This curiosity led me to create 𝐓𝐡𝐞 𝐀𝐈 𝐅𝐫𝐚𝐦𝐞 𝐏𝐨𝐝𝐜𝐚𝐬𝐭 where I interview founders, investors, and innovators about the strategies, lessons, and mental models shaping the future of AI.
-
-I’m endlessly curious and committed to staying up-to-date with the latest in AI and responsible tech and I love taking complex systems, reframing them, and helping people understand and use them with clarity and confidence. That’s also why I’m so active on LinkedIn and social media, sharing what I learn, what I build, and what I discover along the way.
 
 -------
 
