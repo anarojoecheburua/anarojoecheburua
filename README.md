@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/ana-rojo-echeburua/">
   <img align="left" alt="Ana's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/arojomaths">
+<a href="https://x.com/arojomaths">
   <img align="left" alt="Ana's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
@@ -62,13 +62,6 @@ I’m endlessly curious and committed to staying up-to-date with the latest in A
 🏆 **GitHub Trophies:**
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=anarojoecheburua&theme=radical)
-
-<br/>
-
-📚 **Latest Articles:**
-
-**Latest Articles:**
-[Read my latest article on Llama 3.3](https://www.datacamp.com/tutorial/llama-3-3-tutorial)
 
 
 <br/>
