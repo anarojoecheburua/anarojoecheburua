@@ -2,15 +2,17 @@
 <img align="right" alt="Ana Chibi" width="150px" src="https://github.com/anarojoecheburua/anarojoecheburua/blob/master/ana1.png"/>
 
 ### Let's connect! 🌐
-### Let's connect! 🌐
+
 
 <a href="https://www.linkedin.com/in/ana-rojo-echeburua/">
   <img align="left" alt="Ana's LinkedIn" width="22px" src="./linkedin.svg" />
 </a>
 
 <a href="https://x.com/arojomaths">
-  <img align="left" width="22px" src="./x.svg#gh-dark-mode-only" />
-  <img align="left" width="22px" src="./x_dark.svg#gh-light-mode-only" />
+  <img align="left" width="22px" src="./x.svg#gh-light-mode-only" />
+</a>
+<a href="https://x.com/arojomaths">
+  <img align="left" width="22px" src="./x_dark.svg#gh-dark-mode-only" />
 </a>
 
 <br clear="left"/>
