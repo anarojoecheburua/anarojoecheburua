@@ -4,9 +4,19 @@
 ### Let's connect! 🌐
 
 
-[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/ana-rojo-echeburua/)
-[![Ana's X](./x.svg#gh-light-mode-only)](https://x.com/arojomaths)
-[![Ana's X](./x_dark.svg#gh-dark-mode-only)](https://x.com/arojomaths)
+<a href="https://www.linkedin.com/in/ana-rojo-echeburua/">
+  <img align="left" alt="Ana's LinkedIn" width="22px" src="./linkedin.svg" />
+</a>
+
+<a href="https://x.com/arojomaths">
+  <img align="left" width="22px" src="./x.svg#gh-light-mode-only" />
+</a>
+<a href="https://x.com/arojomaths">
+  <img align="left" width="22px" src="./x_dark.svg#gh-dark-mode-only" />
+</a>
+
+<br clear="left"/>
+<br/>
 
 Hi there, I’m Ana 👋 welcome to my profile.
 
