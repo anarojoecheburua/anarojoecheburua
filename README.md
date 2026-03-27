@@ -9,12 +9,11 @@
 </a>
 
 <a href="https://x.com/arojomaths">
-  <img align="left" width="22px" src="./x.svg#gh-dark-mode-only" />
-   <img align="left" width="22px" src="./x_dark.svg#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./x_dark.svg">
+    <img align="left" alt="X" width="22px" src="./x.svg">
+  </picture>
 </a>
-
-<br clear="left"/>
-<br/>
 
 Hi there, I’m Ana 👋 welcome to my profile.
 
