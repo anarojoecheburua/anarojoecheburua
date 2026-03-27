@@ -9,10 +9,8 @@
 </a>
 
 <a href="https://x.com/arojomaths">
-  <img align="left" width="22px" src="./x.svg#gh-light-mode-only" />
-</a>
-<a href="https://x.com/arojomaths">
-  <img align="left" width="22px" src="./x_dark.svg#gh-dark-mode-only" />
+  <img align="left" alt="X Light" width="22px" src="./x_black.svg#gh-light-mode-only" />
+  <img align="left" alt="X Dark" width="22px" src="./x_white.svg#gh-dark-mode-only" />
 </a>
 
 <br clear="left"/>
