@@ -57,12 +57,6 @@ If you're building with AI, exploring its impact, or simply curious about where 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=anarojoecheburua.anarojoecheburua)
 
-<br/>
-
-
-🏆 **GitHub Trophies:**
-
-![trophy](https://github-profile-trophy.vercel.app/?username=anarojoecheburua&theme=radical)
 
 
 
