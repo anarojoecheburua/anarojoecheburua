@@ -15,19 +15,25 @@
   </picture>
 </a>
 
-Hi there, I’m Ana 👋 welcome to my profile.
 
-I’ve always been passionate about mathematics, technology, and using both to solve real-world problems. My work now sits at the intersection of AI strategy, consulting, implementation, and literacy, helping organisations understand what AI can do for them, and how to adopt it safely, transparently, and at scale.
+Hi there, I'm Ana 👋 welcome to my profile.
 
-My love for problem-solving started with mathematics. I completed a degree and master’s in the subject, specialising in differential geometry, and later a PhD on Applications of Smooth and Discrete Moving Frames. After finishing my PhD, I made the shift into data and AI, where I’ve been helping businesses transform ever since.
+I've always been passionate about mathematics, technology, and using both to solve real-world problems.
+My love for problem-solving started with mathematics. I completed a degree and master's in the subject, specialising in differential geometry, and later a PhD on Applications of Smooth and Discrete Moving Frames. After finishing my PhD, I made the change into data and AI, where I've been helping businesses transform ever since.
 
-I work with organisations to design and integrate innovative, scalable, and responsible AI solutions. Over the years I’ve worked across hands-on engineering roles, leadership roles, and everything in between. I’ve always had a strong entrepreneurial spirit too. I’ve built my own ventures, collaborated with founders, and partnered with different businesses across industries to deliver AI initiatives that create real, measurable impact.
+Over the years I've worked across hands-on engineering roles, leadership roles, and everything in between. I've always had a strong entrepreneurial spirit too. I've built my own ventures, collaborated with founders, and partnered with different businesses across industries to deliver AI initiatives that create real, measurable impact.
 
-Education has always been a core part of who I am. Since my master’s days, I’ve been teaching in one form or another, beginning with mathematics for all ages, and later teaching data and AI to professionals, leaders, and exec teams. I help companies understand the skills they need, bridge capability gaps, and design training that genuinely solves business problems.
+Today I'm Head of FIN - Finance Innovation Now, and Fractional CTO at AinTools, building secure, sovereign AI systems for enterprise and government. I also advise startups in Scotland, the UAE and Spain.
 
-I also love sharing what I know through hands-on tutorials, articles, and content focused on all things AI. One of my favourite things is breaking down complex ideas into something that feels simple, practical, and easy to apply. Public speaking and social media are natural extensions of that, spaces where I can think out loud, share what I’m learning, and contribute to a more thoughtful AI conversation.
+Education has always been a core part of who I am. Since my master's days, I've been teaching in one form or another, beginning with mathematics for all ages, and later teaching data and AI to professionals, leaders, and exec teams. I help companies understand the skills they need, fill in capability gaps, and design training and workshops that genuinely solve business problems.
 
-Alongside my technical and educational work, I’m deeply interested in the investment and venture side of AI: how founders build, how investors evaluate opportunities, and how value is actually created in this space. This curiosity led me to create 𝐓𝐡𝐞 𝐀𝐈 𝐅𝐫𝐚𝐦𝐞 𝐏𝐨𝐝𝐜𝐚𝐬𝐭 where I interview founders, investors, and innovators about the strategies, lessons, and mental models shaping the future of AI.
+I also love sharing what I know through hands-on tutorials, articles, and content focused on all things AI. One of my favourite things is breaking down complex ideas into something that feels simple, practical, and easy to apply. Public speaking and social media are natural extensions of that, spaces where I can think out loud, share what I'm learning, and contribute to a more thoughtful AI conversation.
+
+With April Hill, I co-founded Science Night Glasgow, a free monthly night of talks, demos and games bringing Glasgow's tech, science and creative communities together.
+
+Alongside my technical and educational work, I'm deeply interested in the investment and venture side of AI: how founders build, how investors evaluate opportunities, and how value is actually created in this space. This curiosity led me to create The AI Frame Podcast where I interview founders, investors, and innovators about the strategies, lessons, and mental models shaping the future of AI.
+
+If you're building with AI, exploring its impact, or simply curious about where it's all heading, I'm always open to conversation. I'm just one message away. ✨
 
 -------
 
@@ -57,13 +63,6 @@ Alongside my technical and educational work, I’m deeply interested in the inve
 🏆 **GitHub Trophies:**
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=anarojoecheburua&theme=radical)
-
-
-<br/>
-
-☕ **Support Me:**
-
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=anarojoecheburua&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/anarojoecheburua)
 
 
 
