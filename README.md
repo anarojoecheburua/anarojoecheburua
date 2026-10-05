@@ -8,14 +8,6 @@
   <img align="left" alt="Ana's LinkedIn" width="22px" src="./linkedin.svg" />
 </a>
 
-<a href="https://x.com/arojomaths">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./x_dark.svg">
-    <img align="left" alt="X" width="22px" src="./x.svg">
-  </picture>
-</a>
-
-
 Hi there, I'm Ana 👋 welcome to my profile.
 
 I've always been passionate about mathematics, technology, and using both to solve real-world problems.
